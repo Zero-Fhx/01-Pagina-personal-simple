@@ -119,7 +119,7 @@ Este proyecto incluye todas las características esenciales de una página perso
 
 ## 🌐 Demo en Vivo
 
-🔗 **[Ver Demo](https://zero-fhx.github.io/01-Pagina-personal-simple/)** (GitHub Pages)
+🔗 **[Ver Demo](https://zero-fhx.github.io/01-pagina-personal-simple/)** (GitHub Pages)
 
 ## 📸 Capturas de Pantalla
 
